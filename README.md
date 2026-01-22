@@ -1,4 +1,4 @@
-Animation Manim : Évolution des Vues 📈
+Animation de courbe avec Manim  
 
 Ce projet contient le code source d'une animation mathématique réalisée avec la bibliothèque Python Manim.
 
