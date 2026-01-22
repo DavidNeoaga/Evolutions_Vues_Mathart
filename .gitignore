@@ -1,0 +1,5 @@
+media/
+__pycache__/
+*.mp4
+*.png
+desktop.ini
